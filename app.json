@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "react-native-code-test",
-    "slug": "react-native-code-test",
+    "name": "ReadMe",
+    "slug": "read-me",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/readme-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/readme-splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#363636"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
